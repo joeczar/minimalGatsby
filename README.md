@@ -19,5 +19,8 @@ That's it.
 
 Or, you could just use gatsby to build this repository...
 
-````gatsby new minGatsby https://github.com/joeczar/minimalGatsby.git
-cd minGatsby && gatsby develop````
+````
+gatsby new minGatsby https://github.com/joeczar/minimalGatsby.git
+
+cd minGatsby && gatsby develop
+````
